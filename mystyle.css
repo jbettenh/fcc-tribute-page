@@ -32,7 +32,7 @@ a:visited {
   margin: 30px 8px;
   padding: 15px;
   border-radius: 5px;
-  background: #EEE;
+  background: #EEEEEE;
 }
 
 img {
@@ -40,6 +40,7 @@ img {
   display: block;
   height: auto; 
   margin: 0 auto;
+  border-radius: 20px;
 }
 
 #img-div {
@@ -50,6 +51,10 @@ img {
 
 #img-caption {
   margin: 15px 0 5px 0;
+}
+
+#photographer {
+  font-size: 1.0rem;
 }
 
 ul {
